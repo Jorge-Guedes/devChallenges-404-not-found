@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://jorgeguedes-404-not-found.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/HFk1czZlRcLZllx5hCyu">
       Solution
     </a>
     <span> | </span>
@@ -53,4 +53,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Jorge-Guedes](https://github.com/Jorge-Guedes})
+- GitHub [@Jorge-Guedes](https://github.com/Jorge-Guedes)
